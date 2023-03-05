@@ -1,7 +1,5 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/athanmich/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/athanmich/Portfolio?color=red&logo=github&style=for-the-badge)
 
-</center>
+![Screenshot (5)](https://user-images.githubusercontent.com/127024591/222961112-95d93cd5-4ed2-4678-8224-21b1daeecd67.png)
 
 
 This project was built using these technologies.
