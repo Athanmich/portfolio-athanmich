@@ -1,6 +1,7 @@
 
-![Screenshot (5)](https://user-images.githubusercontent.com/127024591/222961112-95d93cd5-4ed2-4678-8224-21b1daeecd67.png)
 
+
+![Screenshot (6)](https://user-images.githubusercontent.com/127024591/222961145-a4ef83c4-930f-4630-9dd6-babb933bc1f8.png)
 
 This project was built using these technologies.
 
